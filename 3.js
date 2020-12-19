@@ -57,4 +57,4 @@ margin-left: 2px;text-align: center;float: right;border-radius: 5px;
 padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" ASIM * BINEN </a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
 AddMsg_=AddMsg;AddMsg=function(wid,data){data.msg=data.msg.replace(/\u102C/g,"");return AddMsg_(wid,data);}
 
-$('.fr.borderg a').text(' Programmed by dookmobile ')
+$('.fr.borderg a').text(' بـرمـجـه دوك مـوبـايـل')
