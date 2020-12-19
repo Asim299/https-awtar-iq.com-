@@ -1,6 +1,6 @@
 if(location.protocol!='https:'){location.protocol='https:';}
   
-$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="sico/1608408889425.jpg
+$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="sico/1608409685595.jpg
 " >
 <a id="jfa44"target="_blank"type="a"rel="nofollow"href=""class="label-primary">1 </a></div></div><center> <a id="asim99" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a>
 </div></div> <div id="asim1"><a id="asim2"target="_blank"type="a"href="rules.html"style="border-radius: 0 10% 0 0; border-right: 2px solid#a6a6a6;"class="btn minix btn-primary">القوانين</a>
@@ -57,4 +57,4 @@ margin-left: 2px;text-align: center;float: right;border-radius: 5px;
 padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" ASIM * BINEN </a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
 AddMsg_=AddMsg;AddMsg=function(wid,data){data.msg=data.msg.replace(/\u102C/g,"");return AddMsg_(wid,data);}
 
-$('.fr.borderg a').text(' 2 ')
+$('.fr.borderg a').text(' Programmed by dookmobile ')
