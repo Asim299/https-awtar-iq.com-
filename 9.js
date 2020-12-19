@@ -42,6 +42,7 @@ $("div#tlogins button.btn.btn-primary")
     }, 0), $(".dpnl")
     .append(` <div id="mic" style="height: 100%;width:100%;" class="break light tab-pane border"><center></div><center></div>`), $('#d0')
     .append(`<label title="صاحب الموقع"href="#"onclick="$('.pnhead').text($(this).attr('title'));
+    background-image: url(https://up6.cc/12/160841316705581.jpg)!important;
 hl($(this),'primary');
 setTimeout(function()
 	{
