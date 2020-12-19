@@ -13,6 +13,7 @@ $(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none
 <a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">الأبراج</a>
 <a id="hack2"target="_blank"type="a"href=""style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;"class="btn minix btn-primary">وظائف</a>
 `).insertBefore(".nav-tabs")
+$(`<link rel="stylesheet" href="https://raw.githack.com/hussienail/awtar-iq/main/32.css">`).insertBefore("body");
 $(".ae.label.label-primary.fa.fa-gear").text(' ضبط '); 
 $('.nav-tabs').addClass('fl').css('width','100%');
 $('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
