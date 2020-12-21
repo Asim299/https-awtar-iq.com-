@@ -1,6 +1,6 @@
 if(location.protocol!='https:'){location.protocol='https:';}
   
-$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="sico/1608410582105.jpg
+$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="sico/1608558832533.jpg
 " >
 <a id="jfa44"target="_blank"type="a"rel="nofollow"href=""class="label-primary">1 </a></div></div><center> <a id="asim99" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a>
 </div></div> <div id="asim1"><a id="asim2"target="_blank"type="a"href="rules.html"style="border-radius: 0 10% 0 0; border-right: 2px solid#a6a6a6;"class="btn minix btn-primary">القوانين</a>
@@ -43,7 +43,6 @@ $("div#tlogins button.btn.btn-primary")
     }, 0), $(".dpnl")
     .append(` <div id="mic" style="height: 100%;width:100%;" class="break light tab-pane border"><center></div><center></div>`), $('#d0')
     .append(`<label title="صاحب الموقع"href="#"onclick="$('.pnhead').text($(this).attr('title'));
-    background-image: url(https://up6.cc/12/160841316705581.jpg)!important;
 hl($(this),'primary');
 setTimeout(function()
 	{
@@ -52,10 +51,5 @@ setTimeout(function()
 ,0);
 $('.dpnl').show();
 "data-toggle="tab"data-target="#mic"class="ae fa label label-primary fa-volume-up">&nbsp;</label>`);
-$(`<!--<a class="fl fa fa-image btn ui-corner-all ui-shadow ui-btn ui-btn-inline borderg" style="color:purple;margin:2px;width: 106px;text-align: center;font-size:15px!important;"><span dir="rtl"> (0) </span><span style="font-size: 15px!important;>3 </span></a>-->
-<a href="" target="_blank" style="width:107px; margin-right: 5px;
-margin-left: 2px;text-align: center;float: right;border-radius: 5px;
-padding: 3px;font-family: 'Cairo', sans-serif, Fontawesome;font-size: 13px!important;" class="SLPBeats fab fa-angellist" ASIM * BINEN </a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
-AddMsg_=AddMsg;AddMsg=function(wid,data){data.msg=data.msg.replace(/\u102C/g,"");return AddMsg_(wid,data);}
 
 $('.fr.borderg a').text(' بـرمـجـه دوك مـوبـايـل')
