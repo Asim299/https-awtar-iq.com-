@@ -1,6 +1,6 @@
 if(location.protocol!='https:'){location.protocol='https:';}
   
-$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="sico/https://a.top4top.io/p_1819twq641.jpg
+$(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="https://a.top4top.io/p_1819twq641.jpg
 " >
 <a id="jfa44"target="_blank"type="a"rel="nofollow"href=""class="label-primary">1 </a></div></div><center> <a id="asim99" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a>
 </div></div> <div id="asim1"><a id="asim2"target="_blank"type="a"href="rules.html"style="border-radius: 0 10% 0 0; border-right: 2px solid#a6a6a6;"class="btn minix btn-primary">القوانين</a>
