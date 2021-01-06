@@ -25,11 +25,6 @@ $(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/new/bd3a4b8b669
 					
 
 vchat=false;
-$(".fa-gear").text("  ").css("width","");
-
-$(".fa-commenting-o").text("   ").css("width","");
-
-$(".fa-users").text("  ").css("width","");
 
 
 
